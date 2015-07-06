@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   
   <title><![CDATA[Lucien's blog]]></title>
-  
+  <subtitle><![CDATA[SUB_TITLE]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
   <updated>2015-07-03T08:29:04.398Z</updated>
