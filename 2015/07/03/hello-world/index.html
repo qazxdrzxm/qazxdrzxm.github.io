@@ -6,7 +6,7 @@
   <title>Hello World | Lucien&#39;s blog</title>
   <meta name="author" content="Lucien">
   
-  <meta name="description" content="SOME descript....">
+  <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in ">
   
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -30,7 +30,7 @@
 <body>
   <header id="header" class="inner"><div class="alignleft">
   <h1><a href="/">Lucien&#39;s blog</a></h1>
-  <h2><a href="/">SUB_TITLE</a></h2>
+  <h2><a href="/"></a></h2>
 </div>
 <nav id="main-nav" class="alignright">
   <ul>
@@ -102,22 +102,33 @@
 
 
 <section id="comment">
-  <h1 class="title">留言</h1>
 
-  
-      <div id="fb-root"></div>
-<script>
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=123456789012345";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
+<nav id="pagination" >
+    
+    <a href="/2015/07/03/FirstTest/" class="alignleft prev" >上一页</a>
+    
+    
+    <div class="clearfix"></div>
+</nav>
 
-<div class="fb-comments" data-href="http://yoursite.com/2015/07/03/hello-world/index.html" data-num-posts="5" data-width="840" data-colorscheme="light"></div>
-      
+
+
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="index" data-title="title_index" data-url="http://www.isingme.com/2015/07/03/hello-world/"></div>
+<!-- 多说评论框 end -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"isingme"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+
   
 </section>
 
@@ -126,9 +137,11 @@
   <div class="search">
   <form action="//google.com/search" method="get" accept-charset="utf-8">
     <input type="search" name="q" results="0" placeholder="搜索">
-    <input type="hidden" name="q" value="site:yoursite.com">
+    <input type="hidden" name="q" value="site:www.isingme.com">
   </form>
 </div>
+
+  
 
   
 
