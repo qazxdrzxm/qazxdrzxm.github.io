@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.isingme.com/about/index.html</loc>
+    <lastmod>2015-07-08T06:44:54.841Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.isingme.com/2015/07/07/hello-world/</loc>
-    <lastmod>2015-07-07T06:58:17.749Z</lastmod>
+    <lastmod>2015-07-07T07:08:40.662Z</lastmod>
   </url>
   
   <url>
     <loc>http://www.isingme.com/2015/07/03/FirstTest/</loc>
-    <lastmod>2015-07-07T06:58:06.046Z</lastmod>
+    <lastmod>2015-07-07T07:08:33.197Z</lastmod>
   </url>
   
 </urlset>

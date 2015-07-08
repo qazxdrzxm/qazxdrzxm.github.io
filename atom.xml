@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.isingme.com//"/>
-  <updated>2015-07-07T06:58:17.749Z</updated>
+  <updated>2015-07-07T07:08:40.662Z</updated>
   <id>http://www.isingme.com//</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://www.isingme.com/2015/07/07/hello-world/"/>
     <id>http://www.isingme.com/2015/07/07/hello-world/</id>
-    <published>2015-07-07T06:58:17.749Z</published>
-    <updated>2015-07-07T06:58:17.749Z</updated>
+    <published>2015-07-07T07:08:40.662Z</published>
+    <updated>2015-07-07T07:08:40.662Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -37,6 +37,8 @@
     
       <category term="hello" scheme="http://www.isingme.com/tags/hello/"/>
     
+      <category term="尝试" scheme="http://www.isingme.com/categories/%E5%B0%9D%E8%AF%95/"/>
+    
   </entry>
   
   <entry>
@@ -44,7 +46,7 @@
     <link href="http://www.isingme.com/2015/07/03/FirstTest/"/>
     <id>http://www.isingme.com/2015/07/03/FirstTest/</id>
     <published>2015-07-03T08:21:14.000Z</published>
-    <updated>2015-07-07T06:58:06.046Z</updated>
+    <updated>2015-07-07T07:08:33.197Z</updated>
     <content type="html"><![CDATA[<p>第一次尝试，不知效果怎么样<br>什么图片什么的都还不会添加</p>
 ]]></content>
     <summary type="html">
@@ -53,6 +55,8 @@
     </summary>
     
       <category term="first" scheme="http://www.isingme.com/tags/first/"/>
+    
+      <category term="尝试" scheme="http://www.isingme.com/categories/%E5%B0%9D%E8%AF%95/"/>
     
   </entry>
   
