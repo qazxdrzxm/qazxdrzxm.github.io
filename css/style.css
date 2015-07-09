@@ -478,6 +478,12 @@ article footer .addthis {
 article footer .addthis iframe {
   margin-top: 0;
 }
+.nirdonkey {
+  float: left;
+}
+.bdsharebuttonbox {
+  float: right;
+}
 #comment {
   padding: 20px;
   background: #fff;
