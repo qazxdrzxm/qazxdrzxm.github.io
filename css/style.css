@@ -808,6 +808,7 @@ pre .deletion {
   padding: 1em;
   position: relative;
   left: 2em;
+  right: 2em;
 }
 .toc-article .toc-title {
   padding-bottom: 0.8em;
